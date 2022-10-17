@@ -1,5 +1,5 @@
 {
-  "name": "Alphabot-Md",
+  "name": "Csr-Md",
   "version": "1.1.5",
   "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Micah",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
